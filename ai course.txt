@@ -1,0 +1,11 @@
+1
+<video _ngcontent-serverapp-c187="" id="my-video_html5_api" preload="auto" data-setup="{}" autoplay="" class="vjs-tech" tabindex="-1" role="application" src="https://video.instructory.net/api/v1/video/1705242304927/access"><source _ngcontent-serverapp-c187="" type="video/mp4" src="https://video.instructory.net/api/v1/video/1705242304927/access"></video>
+2
+<video _ngcontent-serverapp-c187="" id="my-video_html5_api" preload="auto" data-setup="{}" autoplay="" class="vjs-tech" tabindex="-1" role="application" src="https://video.instructory.net/api/v1/video/1705242303508/access"><source _ngcontent-serverapp-c187="" type="video/mp4" src="https://video.instructory.net/api/v1/video/1705242303508/access"></video>
+3
+<video _ngcontent-serverapp-c187="" id="my-video_html5_api" preload="auto" data-setup="{}" autoplay="" class="vjs-tech" tabindex="-1" role="application" src="https://video.instructory.net/api/v1/video/1705242303723/access"><source _ngcontent-serverapp-c187="" type="video/mp4" src="https://video.instructory.net/api/v1/video/1705242303723/access"></video>
+4
+<video _ngcontent-serverapp-c187="" id="my-video_html5_api" preload="auto" data-setup="{}" autoplay="" class="vjs-tech" tabindex="-1" role="application" src="https://video.instructory.net/api/v1/video/1705242579466/access"><source _ngcontent-serverapp-c187="" type="video/mp4" src="https://video.instructory.net/api/v1/video/1705242579466/access"></video>
+5
+<video _ngcontent-serverapp-c187="" id="my-video_html5_api" preload="auto" data-setup="{}" autoplay="" class="vjs-tech" tabindex="-1" role="application" src="https://video.instructory.net/api/v1/video/1705242553241/access"><source _ngcontent-serverapp-c187="" type="video/mp4" src="https://video.instructory.net/api/v1/video/1705242553241/access"></video>
+6
